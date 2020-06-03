@@ -1,5 +1,7 @@
 # AI Safety
 
+[AI access to personal data](data.html)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/infinite-ai/infinite-ai.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
