@@ -1,6 +1,6 @@
 # AI Safety
 
-[AI access to personal data](data.html)
+[AI access to personal data](data.md)
 
 ## Welcome to GitHub Pages
 
